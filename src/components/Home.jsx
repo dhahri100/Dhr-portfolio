@@ -13,11 +13,10 @@ const Home = () => {
                     I'm a Front-End Developer 
                 </h2>
                 <p className='py-4 max-w-md'>
-                I am a front-end developer specializing in the design and development of websites.
-                 I am skilled in React JS, NodeJS, 
-                 JavaScript as well as several other programming languages.
-                  My expertise in front-end development 
-                  allows me to design and develop modern,
+               
+                        I am a front-end developer specialized in web design and development. 
+                        I am proficient in React JS, NodeJS, JavaScript, and several other programming languages.
+                        My expertise in front-end development allows me to design and develop modern, functional, and user-friendly user interfaces for websites.
                 </p>
                 <div>
                     <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md 
